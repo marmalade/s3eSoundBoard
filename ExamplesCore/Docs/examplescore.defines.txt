@@ -1,0 +1,1 @@
+EXAMPLE_DEBUG_ONLY		This example is designed to work only in debug builds - If a release build is made a message is displayed instead of the normal behaviour

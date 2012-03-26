@@ -1,0 +1,1024 @@
+Archive member included because of file (symbol)
+
+C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                              debug\s3eSoundPool_platform.os (IwDebugTraceSetTraceChannel)
+C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                              debug\s3eSoundPool_platform.os (s3eEdkThreadRunOnOS)
+
+Discarded input sections
+
+ .group         0x00000000       0x10 debug\s3eSoundPool_platform.os
+ .group         0x00000000       0x10 debug\s3eSoundPool_platform.os
+ .group         0x00000000       0x10 debug\s3eSoundPool_platform.os
+ .group         0x00000000       0x10 debug\s3eSoundPool_platform.os
+ .group         0x00000000       0x10 debug\s3eSoundPool_platform.os
+ .group         0x00000000       0x10 debug\s3eSoundPool_platform.os
+ .group         0x00000000       0x10 debug\s3eSoundPool_platform.os
+ .group         0x00000000       0x10 debug\s3eSoundPool_platform.os
+ .group         0x00000000       0x10 debug\s3eSoundPool_platform.os
+ .group         0x00000000       0x10 debug\s3eSoundPool_platform.os
+ .group         0x00000000       0x10 debug\s3eSoundPool_platform.os
+ .group         0x00000000       0x10 debug\s3eSoundPool_platform.os
+ .group         0x00000000       0x10 debug\s3eSoundPool_platform.os
+ .group         0x00000000       0x10 debug\s3eSoundPool_platform.os
+ .text          0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .data          0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZL15s3eEdkJNIGetEnvv
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZL27s3eEdkAndroidFindClass_realPKc
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZL22s3eEdkAndroidFindClassPKc
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z25s3eSoundPoolInit_platformv
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z30s3eSoundPoolTerminate_platformv
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z27s3eSoundPoolGetInt_platform20s3eSoundPoolProperty
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z27s3eSoundPoolSetInt_platform20s3eSoundPoolPropertyi
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z33s3eSoundPoolSampleGetInt_platformi26s3eSoundPoolSampleProperty
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z33s3eSoundPoolSampleSetInt_platformi26s3eSoundPoolSamplePropertyi
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z36s3eSoundPoolPauseAllSamples_platformv
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z37s3eSoundPoolResumeAllSamples_platformv
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z35s3eSoundPoolStopAllSamples_platformv
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z31s3eSoundPoolSampleLoad_platformPKc
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z33s3eSoundPoolSampleUnload_platformi
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z31s3eSoundPoolSamplePlay_platformiii
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z31s3eSoundPoolSampleStop_platformi
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z32s3eSoundPoolSamplePause_platformi
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z33s3eSoundPoolSampleResume_platformi
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z21s3eSoundPool_SetErrorP7_JNIEnvP8_jobjecti
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z24s3eSoundPool_SampleEndedP7_JNIEnvP8_jobjecti
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .note.GNU-stack
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .text          0x00000000        0x0 debug\s3eSoundPool.os
+ .data          0x00000000        0x0 debug\s3eSoundPool.os
+ .bss           0x00000000        0x0 debug\s3eSoundPool.os
+ .ARM.extab.text.s3eSoundPoolGetInt
+                0x00000000        0x0 debug\s3eSoundPool.os
+ .ARM.extab.text.s3eSoundPoolSetInt
+                0x00000000        0x0 debug\s3eSoundPool.os
+ .ARM.extab.text.s3eSoundPoolSampleLoad
+                0x00000000        0x0 debug\s3eSoundPool.os
+ .ARM.extab.text.s3eSoundPoolSampleUnload
+                0x00000000        0x0 debug\s3eSoundPool.os
+ .ARM.extab.text.s3eSoundPoolSamplePlay
+                0x00000000        0x0 debug\s3eSoundPool.os
+ .ARM.extab.text.s3eSoundPoolSampleStop
+                0x00000000        0x0 debug\s3eSoundPool.os
+ .ARM.extab.text.s3eSoundPoolSamplePause
+                0x00000000        0x0 debug\s3eSoundPool.os
+ .ARM.extab.text.s3eSoundPoolSampleResume
+                0x00000000        0x0 debug\s3eSoundPool.os
+ .ARM.extab.text.s3eSoundPoolSampleGetInt
+                0x00000000        0x0 debug\s3eSoundPool.os
+ .ARM.extab.text.s3eSoundPoolSampleSetInt
+                0x00000000        0x0 debug\s3eSoundPool.os
+ .note.GNU-stack
+                0x00000000        0x0 debug\s3eSoundPool.os
+ .text          0x00000000        0x0 debug\s3eSoundPool_register.os
+ .data          0x00000000        0x0 debug\s3eSoundPool_register.os
+ .bss           0x00000000        0x0 debug\s3eSoundPool_register.os
+ .ARM.extab.text.s3eSoundPoolGetErrorString
+                0x00000000        0x0 debug\s3eSoundPool_register.os
+ .ARM.extab.text.s3eSoundPoolRegister
+                0x00000000        0x0 debug\s3eSoundPool_register.os
+ .ARM.extab.text.s3eSoundPoolUnRegister
+                0x00000000        0x0 debug\s3eSoundPool_register.os
+ .ARM.extab.text._Z23s3eSoundPoolRegisterExtv
+                0x00000000        0x0 debug\s3eSoundPool_register.os
+ .note.GNU-stack
+                0x00000000        0x0 debug\s3eSoundPool_register.os
+ .text          0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .data          0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwAssertRegisterTextCallback
+                0x00000000       0x18 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwAssertRegisterTextCallback
+                0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwAssertRegisterTextCallback
+                0x00000000        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwAssertRegisterCallback
+                0x00000000       0x18 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwAssertRegisterCallback
+                0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwAssertRegisterCallback
+                0x00000000        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugTraceSetTraceChannel
+                0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugErrorRegisterCallback
+                0x00000000       0x18 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugErrorRegisterCallback
+                0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugErrorRegisterCallback
+                0x00000000        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugAssertSetUID
+                0x00000000       0x10 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugAssertSetUID
+                0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugAssertSetUID
+                0x00000000        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text._GLOBAL__I_g_DebugGlobals
+                0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugClearConfigCache
+                0x00000000       0x80 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugClearConfigCache
+                0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugClearConfigCache
+                0x00000000        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugErrorShow
+                0x00000000       0xdc C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugErrorShow
+                0x00000000        0xc C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugErrorShow
+                0x00000000        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugTraceIsChannelOn
+                0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugAssertIsChannelOn
+                0x00000000      0x1d0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugAssertIsChannelOn
+                0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugAssertIsChannelOn
+                0x00000000        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugTraceDisable
+                0x00000000       0x1c C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugTraceDisable
+                0x00000000        0xc C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugTraceDisable
+                0x00000000        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugAssertSetMessage
+                0x00000000       0xe4 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugAssertSetMessage
+                0x00000000        0xc C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugAssertSetMessage
+                0x00000000        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugAssertSetSolution
+                0x00000000       0x90 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugAssertSetSolution
+                0x00000000        0xc C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugAssertSetSolution
+                0x00000000        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugAssertShow
+                0x00000000      0x2e8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugAssertShow
+                0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugAssertShow
+                0x00000000        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugTraceChannelSwitch
+                0x00000000      0x458 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugTraceChannelSwitch
+                0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugTraceChannelSwitch
+                0x00000000        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text          0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .data          0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .bss           0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .text.s3eEdkThreadRunOnOSAsync
+                0x00000000       0x30 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.extab.text.s3eEdkThreadRunOnOSAsync
+                0x00000000        0xc C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.exidx.text.s3eEdkThreadRunOnOSAsync
+                0x00000000        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .text.s3eEdkErrorSetString
+                0x00000000       0x30 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.extab.text.s3eEdkErrorSetString
+                0x00000000        0xc C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.exidx.text.s3eEdkErrorSetString
+                0x00000000        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD debug\s3eSoundPool_platform.os
+LOAD debug\s3eSoundPool.os
+LOAD debug\s3eSoundPool_register.os
+LOAD C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a
+LOAD C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android/libplaceholderplaceholderplaceholderplaceholderplaceholder.so
+LOAD C:\dev\sdk\teams\marmite\5.2\platform_libs\android\arch-arm\usr\lib/libc.so
+LOAD C:\dev\sdk\teams\marmite\5.2\platform_libs\android\arch-arm\usr\lib/libm.so
+LOAD C:\dev\sdk\teams\marmite\5.2\platform_libs\android\arch-arm\usr\lib/liblog.so
+LOAD C:\dev\sdk\teams\marmite\5.2\platform_libs\android\gnu-libstdc++\libs\armeabi\libstdc++.a
+LOAD c:/dev/sdk/teams/marmite/5.2/platform_libs/linux/gcc/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1\libgcc.a
+                0x000000d4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000d4      0x14c
+ *(.hash)
+ .hash          0x000000d4      0x14c debug\s3eSoundPool_platform.os
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x00000220      0x2c0
+ *(.dynsym)
+ .dynsym        0x00000220      0x2c0 debug\s3eSoundPool_platform.os
+
+.dynstr         0x000004e0      0x279
+ *(.dynstr)
+ .dynstr        0x000004e0      0x279 debug\s3eSoundPool_platform.os
+
+.gnu.version    0x0000075a        0x0 load address 0x00000759
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 debug\s3eSoundPool_platform.os
+
+.gnu.version_d  0x0000075c        0x0 load address 0x00000759
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+
+.gnu.version_r  0x0000075c        0x0 load address 0x00000759
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+
+.rel.dyn        0x0000075c      0x390
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ .rel.text._ZL22s3eEdkAndroidFindClassPKc
+                0x0000075c        0x8 debug\s3eSoundPool_platform.os
+ .rel.text._Z25s3eSoundPoolInit_platformv
+                0x00000764      0x160 debug\s3eSoundPool_platform.os
+ .rel.text._Z30s3eSoundPoolTerminate_platformv
+                0x000008c4       0x10 debug\s3eSoundPool_platform.os
+ .rel.text._Z27s3eSoundPoolGetInt_platform20s3eSoundPoolProperty
+                0x000008d4       0x10 debug\s3eSoundPool_platform.os
+ .rel.text._Z27s3eSoundPoolSetInt_platform20s3eSoundPoolPropertyi
+                0x000008e4       0x10 debug\s3eSoundPool_platform.os
+ .rel.text._Z33s3eSoundPoolSampleGetInt_platformi26s3eSoundPoolSampleProperty
+                0x000008f4       0x18 debug\s3eSoundPool_platform.os
+ .rel.text._Z33s3eSoundPoolSampleSetInt_platformi26s3eSoundPoolSamplePropertyi
+                0x0000090c       0x10 debug\s3eSoundPool_platform.os
+ .rel.text._Z36s3eSoundPoolPauseAllSamples_platformv
+                0x0000091c       0x10 debug\s3eSoundPool_platform.os
+ .rel.text._Z37s3eSoundPoolResumeAllSamples_platformv
+                0x0000092c       0x10 debug\s3eSoundPool_platform.os
+ .rel.text._Z35s3eSoundPoolStopAllSamples_platformv
+                0x0000093c       0x10 debug\s3eSoundPool_platform.os
+ .rel.text._Z31s3eSoundPoolSampleLoad_platformPKc
+                0x0000094c       0x10 debug\s3eSoundPool_platform.os
+ .rel.text._Z33s3eSoundPoolSampleUnload_platformi
+                0x0000095c       0x10 debug\s3eSoundPool_platform.os
+ .rel.text._Z31s3eSoundPoolSamplePlay_platformiii
+                0x0000096c       0x10 debug\s3eSoundPool_platform.os
+ .rel.text._Z31s3eSoundPoolSampleStop_platformi
+                0x0000097c       0x10 debug\s3eSoundPool_platform.os
+ .rel.text._Z32s3eSoundPoolSamplePause_platformi
+                0x0000098c       0x10 debug\s3eSoundPool_platform.os
+ .rel.text._Z33s3eSoundPoolSampleResume_platformi
+                0x0000099c       0x10 debug\s3eSoundPool_platform.os
+ .rel.text._Z21s3eSoundPool_SetErrorP7_JNIEnvP8_jobjecti
+                0x000009ac       0x20 debug\s3eSoundPool_platform.os
+ .rel.text._Z23s3eSoundPoolRegisterExtv
+                0x000009cc       0xa0 debug\s3eSoundPool_platform.os
+ .rel.text.IwAssertRegisterTextCallback
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .rel.text.IwAssertRegisterCallback
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .rel.text.IwDebugTraceSetTraceChannel
+                0x00000a6c        0x8 debug\s3eSoundPool_platform.os
+ .rel.text.IwDebugErrorRegisterCallback
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .rel.text.IwDebugAssertSetUID
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .rel.text._GLOBAL__I_g_DebugGlobals
+                0x00000a74        0x8 debug\s3eSoundPool_platform.os
+ .rel.text.IwDebugClearConfigCache
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .rel.text.IwDebugErrorShow
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .rel.text.IwDebugTraceLineVPrintf
+                0x00000a7c       0x20 debug\s3eSoundPool_platform.os
+ .rel.text.IwDebugTraceIsChannelOn
+                0x00000a9c       0x18 debug\s3eSoundPool_platform.os
+ .rel.text.IwDebugAssertIsChannelOn
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .rel.text.IwDebugAssertSetMessage
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .rel.text.IwDebugAssertSetSolution
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .rel.text.IwDebugAssertShow
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ .rel.text.IwDebugTraceChannelSwitch
+                0x00000000        0x0 debug\s3eSoundPool_platform.os
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ .rel.rodata    0x00000ab4       0x30 debug\s3eSoundPool_platform.os
+ *(.rel.data.rel.ro* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00000000        0x0 debug\s3eSoundPool_platform.os
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+ .rel.init_array
+                0x00000ae4        0x8 debug\s3eSoundPool_platform.os
+
+.rela.dyn
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ifunc)
+
+.rel.plt        0x00000aec       0x98
+ *(.rel.plt)
+ .rel.plt       0x00000aec       0x98 debug\s3eSoundPool_platform.os
+ *(.rel.iplt)
+
+.rela.plt
+ *(.rela.plt)
+ *(.rela.iplt)
+
+.init
+ *(.init)
+
+.plt            0x00000b84       0xf8
+ *(.plt)
+ .plt           0x00000b84       0xf8 debug\s3eSoundPool_platform.os
+ *(.iplt)
+
+.text           0x00000c80     0x1bf8
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text._ZN7_JNIEnv9FindClassEPKc
+                0x00000c80       0x40 debug\s3eSoundPool_platform.os
+                0x00000c80                _JNIEnv::FindClass(char const*)
+ .text._ZN7_JNIEnv17ExceptionOccurredEv
+                0x00000cc0       0x38 debug\s3eSoundPool_platform.os
+                0x00000cc0                _JNIEnv::ExceptionOccurred()
+ .text._ZN7_JNIEnv17ExceptionDescribeEv
+                0x00000cf8       0x30 debug\s3eSoundPool_platform.os
+                0x00000cf8                _JNIEnv::ExceptionDescribe()
+ .text._ZN7_JNIEnv14ExceptionClearEv
+                0x00000d28       0x30 debug\s3eSoundPool_platform.os
+                0x00000d28                _JNIEnv::ExceptionClear()
+ .text._ZN7_JNIEnv12NewGlobalRefEP8_jobject
+                0x00000d58       0x40 debug\s3eSoundPool_platform.os
+                0x00000d58                _JNIEnv::NewGlobalRef(_jobject*)
+ .text._ZN7_JNIEnv15DeleteGlobalRefEP8_jobject
+                0x00000d98       0x38 debug\s3eSoundPool_platform.os
+                0x00000d98                _JNIEnv::DeleteGlobalRef(_jobject*)
+ .text._ZN7_JNIEnv14DeleteLocalRefEP8_jobject
+                0x00000dd0       0x38 debug\s3eSoundPool_platform.os
+                0x00000dd0                _JNIEnv::DeleteLocalRef(_jobject*)
+ .text._ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x00000e08       0x60 debug\s3eSoundPool_platform.os
+                0x00000e08                _JNIEnv::NewObject(_jclass*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv11GetMethodIDEP7_jclassPKcS3_
+                0x00000e68       0x50 debug\s3eSoundPool_platform.os
+                0x00000e68                _JNIEnv::GetMethodID(_jclass*, char const*, char const*)
+ .text._ZN7_JNIEnv13CallIntMethodEP8_jobjectP10_jmethodIDz
+                0x00000eb8       0x60 debug\s3eSoundPool_platform.os
+                0x00000eb8                _JNIEnv::CallIntMethod(_jobject*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv14CallVoidMethodEP8_jobjectP10_jmethodIDz
+                0x00000f18       0x50 debug\s3eSoundPool_platform.os
+                0x00000f18                _JNIEnv::CallVoidMethod(_jobject*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv12NewStringUTFEPKc
+                0x00000f68       0x40 debug\s3eSoundPool_platform.os
+                0x00000f68                _JNIEnv::NewStringUTF(char const*)
+ .text._ZN7_JNIEnv15RegisterNativesEP7_jclassPK15JNINativeMethodi
+                0x00000fa8       0x50 debug\s3eSoundPool_platform.os
+                0x00000fa8                _JNIEnv::RegisterNatives(_jclass*, JNINativeMethod const*, int)
+ .text._ZN7_JavaVM6GetEnvEPPvi
+                0x00000ff8       0x48 debug\s3eSoundPool_platform.os
+                0x00000ff8                _JavaVM::GetEnv(void**, int)
+ .text._ZL15s3eEdkJNIGetEnvv
+                0x00001040       0x48 debug\s3eSoundPool_platform.os
+ .text._ZL27s3eEdkAndroidFindClass_realPKc
+                0x00001088       0x7c debug\s3eSoundPool_platform.os
+ .text._ZL22s3eEdkAndroidFindClassPKc
+                0x00001104       0x38 debug\s3eSoundPool_platform.os
+ .text._Z25s3eSoundPoolInit_platformv
+                0x0000113c      0x5e4 debug\s3eSoundPool_platform.os
+                0x0000113c                s3eSoundPoolInit_platform()
+ .text._Z30s3eSoundPoolTerminate_platformv
+                0x00001720       0x68 debug\s3eSoundPool_platform.os
+                0x00001720                s3eSoundPoolTerminate_platform()
+ .text._Z27s3eSoundPoolGetInt_platform20s3eSoundPoolProperty
+                0x00001788       0xa8 debug\s3eSoundPool_platform.os
+                0x00001788                s3eSoundPoolGetInt_platform(s3eSoundPoolProperty)
+ .text._Z27s3eSoundPoolSetInt_platform20s3eSoundPoolPropertyi
+                0x00001830       0xc4 debug\s3eSoundPool_platform.os
+                0x00001830                s3eSoundPoolSetInt_platform(s3eSoundPoolProperty, int)
+ .text._Z33s3eSoundPoolSampleGetInt_platformi26s3eSoundPoolSampleProperty
+                0x000018f4      0x15c debug\s3eSoundPool_platform.os
+                0x000018f4                s3eSoundPoolSampleGetInt_platform(int, s3eSoundPoolSampleProperty)
+ .text._Z33s3eSoundPoolSampleSetInt_platformi26s3eSoundPoolSamplePropertyi
+                0x00001a50       0xdc debug\s3eSoundPool_platform.os
+                0x00001a50                s3eSoundPoolSampleSetInt_platform(int, s3eSoundPoolSampleProperty, int)
+ .text._Z36s3eSoundPoolPauseAllSamples_platformv
+                0x00001b2c       0x50 debug\s3eSoundPool_platform.os
+                0x00001b2c                s3eSoundPoolPauseAllSamples_platform()
+ .text._Z37s3eSoundPoolResumeAllSamples_platformv
+                0x00001b7c       0x50 debug\s3eSoundPool_platform.os
+                0x00001b7c                s3eSoundPoolResumeAllSamples_platform()
+ .text._Z35s3eSoundPoolStopAllSamples_platformv
+                0x00001bcc       0x50 debug\s3eSoundPool_platform.os
+                0x00001bcc                s3eSoundPoolStopAllSamples_platform()
+ .text._Z31s3eSoundPoolSampleLoad_platformPKc
+                0x00001c1c       0x84 debug\s3eSoundPool_platform.os
+                0x00001c1c                s3eSoundPoolSampleLoad_platform(char const*)
+ .text._Z33s3eSoundPoolSampleUnload_platformi
+                0x00001ca0       0x58 debug\s3eSoundPool_platform.os
+                0x00001ca0                s3eSoundPoolSampleUnload_platform(int)
+ .text._Z31s3eSoundPoolSamplePlay_platformiii
+                0x00001cf8       0x70 debug\s3eSoundPool_platform.os
+                0x00001cf8                s3eSoundPoolSamplePlay_platform(int, int, int)
+ .text._Z31s3eSoundPoolSampleStop_platformi
+                0x00001d68       0x58 debug\s3eSoundPool_platform.os
+                0x00001d68                s3eSoundPoolSampleStop_platform(int)
+ .text._Z32s3eSoundPoolSamplePause_platformi
+                0x00001dc0       0x58 debug\s3eSoundPool_platform.os
+                0x00001dc0                s3eSoundPoolSamplePause_platform(int)
+ .text._Z33s3eSoundPoolSampleResume_platformi
+                0x00001e18       0x58 debug\s3eSoundPool_platform.os
+                0x00001e18                s3eSoundPoolSampleResume_platform(int)
+ .text._Z21s3eSoundPool_SetErrorP7_JNIEnvP8_jobjecti
+                0x00001e70       0xa4 debug\s3eSoundPool_platform.os
+                0x00001e70                s3eSoundPool_SetError(_JNIEnv*, _jobject*, int)
+ .text._Z24s3eSoundPool_SampleEndedP7_JNIEnvP8_jobjecti
+                0x00001f14       0x64 debug\s3eSoundPool_platform.os
+                0x00001f14                s3eSoundPool_SampleEnded(_JNIEnv*, _jobject*, int)
+ .text._Z16s3eSoundPoolInitv
+                0x00001f78       0x18 debug\s3eSoundPool.os
+                0x00001f78                s3eSoundPoolInit()
+ .text._Z21s3eSoundPoolTerminatev
+                0x00001f90       0x10 debug\s3eSoundPool.os
+                0x00001f90                s3eSoundPoolTerminate()
+ .text.s3eSoundPoolGetInt
+                0x00001fa0       0x28 debug\s3eSoundPool.os
+                0x00001fa0                s3eSoundPoolGetInt
+ .text.s3eSoundPoolSetInt
+                0x00001fc8       0x30 debug\s3eSoundPool.os
+                0x00001fc8                s3eSoundPoolSetInt
+ .text.s3eSoundPoolPauseAllSamples
+                0x00001ff8       0x18 debug\s3eSoundPool.os
+                0x00001ff8                s3eSoundPoolPauseAllSamples
+ .text.s3eSoundPoolResumeAllSamples
+                0x00002010       0x18 debug\s3eSoundPool.os
+                0x00002010                s3eSoundPoolResumeAllSamples
+ .text.s3eSoundPoolStopAllSamples
+                0x00002028       0x18 debug\s3eSoundPool.os
+                0x00002028                s3eSoundPoolStopAllSamples
+ .text.s3eSoundPoolSampleLoad
+                0x00002040       0x28 debug\s3eSoundPool.os
+                0x00002040                s3eSoundPoolSampleLoad
+ .text.s3eSoundPoolSampleUnload
+                0x00002068       0x28 debug\s3eSoundPool.os
+                0x00002068                s3eSoundPoolSampleUnload
+ .text.s3eSoundPoolSamplePlay
+                0x00002090       0x38 debug\s3eSoundPool.os
+                0x00002090                s3eSoundPoolSamplePlay
+ .text.s3eSoundPoolSampleStop
+                0x000020c8       0x28 debug\s3eSoundPool.os
+                0x000020c8                s3eSoundPoolSampleStop
+ .text.s3eSoundPoolSamplePause
+                0x000020f0       0x28 debug\s3eSoundPool.os
+                0x000020f0                s3eSoundPoolSamplePause
+ .text.s3eSoundPoolSampleResume
+                0x00002118       0x28 debug\s3eSoundPool.os
+                0x00002118                s3eSoundPoolSampleResume
+ .text.s3eSoundPoolSampleGetInt
+                0x00002140       0x30 debug\s3eSoundPool.os
+                0x00002140                s3eSoundPoolSampleGetInt
+ .text.s3eSoundPoolSampleSetInt
+                0x00002170       0x38 debug\s3eSoundPool.os
+                0x00002170                s3eSoundPoolSampleSetInt
+ .text.s3eSoundPoolGetErrorString
+                0x000021a8        0xc debug\s3eSoundPool_register.os
+                0x000021a8                s3eSoundPoolGetErrorString
+ .text.s3eSoundPoolGetError
+                0x000021b4       0x20 debug\s3eSoundPool_register.os
+                0x000021b4                s3eSoundPoolGetError
+ .text.s3eSoundPoolRegister
+                0x000021d4       0x54 debug\s3eSoundPool_register.os
+                0x000021d4                s3eSoundPoolRegister
+ .text.s3eSoundPoolUnRegister
+                0x00002228       0x48 debug\s3eSoundPool_register.os
+                0x00002228                s3eSoundPoolUnRegister
+ .text._Z23s3eSoundPoolRegisterExtv
+                0x00002270      0x134 debug\s3eSoundPool_register.os
+                0x00002270                s3eSoundPoolRegisterExt()
+ .text.RegisterExt
+                0x000023a4       0x10 debug\s3eSoundPool_register.os
+                0x000023a4                RegisterExt
+ .text.IwDebugTraceSetTraceChannel
+                0x000023b4       0x18 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x000023b4                IwDebugTraceSetTraceChannel
+ .text._GLOBAL__I_g_DebugGlobals
+                0x000023cc       0x8c C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .text.IwDebugTraceLineVPrintf
+                0x00002458       0xe8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00002458                IwDebugTraceLineVPrintf
+ .text.IwDebugTraceLinePrintf
+                0x00002540       0x30 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00002540                IwDebugTraceLinePrintf
+ .text.IwDebugTraceIsChannelOn
+                0x00002570      0x278 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x00002570                IwDebugTraceIsChannelOn
+ .text.s3eEdkThreadRunOnOS
+                0x000027e8       0x30 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x000027e8                s3eEdkThreadRunOnOS
+ .text.s3eEdkThreadRunOnOS.stub
+                0x00002818       0x60 linker stubs
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.fini
+ *(.fini)
+                0x00002878                PROVIDE (__etext, .)
+                0x00002878                PROVIDE (_etext, .)
+                0x00002878                PROVIDE (etext, .)
+
+.rodata         0x00002878      0x2e4
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x00002878      0x1b8 debug\s3eSoundPool_platform.os
+ .rodata        0x00002a30       0x10 debug\s3eSoundPool_register.os
+ .rodata.str1.4
+                0x00002a40      0x11c C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                                0x120 (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x00002b5c       0x9c
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab.text._ZN7_JNIEnv9FindClassEPKc
+                0x00002b5c        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZN7_JNIEnv17ExceptionOccurredEv
+                0x00002b5c        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZN7_JNIEnv17ExceptionDescribeEv
+                0x00002b5c        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZN7_JNIEnv14ExceptionClearEv
+                0x00002b5c        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZN7_JNIEnv12NewGlobalRefEP8_jobject
+                0x00002b5c        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZN7_JNIEnv15DeleteGlobalRefEP8_jobject
+                0x00002b5c        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZN7_JNIEnv14DeleteLocalRefEP8_jobject
+                0x00002b5c        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x00002b5c        0xc debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZN7_JNIEnv11GetMethodIDEP7_jclassPKcS3_
+                0x00002b68        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZN7_JNIEnv13CallIntMethodEP8_jobjectP10_jmethodIDz
+                0x00002b68        0xc debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZN7_JNIEnv14CallVoidMethodEP8_jobjectP10_jmethodIDz
+                0x00002b74        0xc debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZN7_JNIEnv12NewStringUTFEPKc
+                0x00002b80        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZN7_JNIEnv15RegisterNativesEP7_jclassPK15JNINativeMethodi
+                0x00002b80        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._ZN7_JavaVM6GetEnvEPPvi
+                0x00002b80        0x0 debug\s3eSoundPool_platform.os
+ .ARM.extab.text._Z16s3eSoundPoolInitv
+                0x00002b80        0xc debug\s3eSoundPool.os
+ .ARM.extab.text._Z21s3eSoundPoolTerminatev
+                0x00002b8c        0xc debug\s3eSoundPool.os
+ .ARM.extab.text.s3eSoundPoolPauseAllSamples
+                0x00002b98        0xc debug\s3eSoundPool.os
+ .ARM.extab.text.s3eSoundPoolResumeAllSamples
+                0x00002ba4        0xc debug\s3eSoundPool.os
+ .ARM.extab.text.s3eSoundPoolStopAllSamples
+                0x00002bb0        0xc debug\s3eSoundPool.os
+ .ARM.extab.text.s3eSoundPoolGetError
+                0x00002bbc        0xc debug\s3eSoundPool_register.os
+ .ARM.extab.text.RegisterExt
+                0x00002bc8        0xc debug\s3eSoundPool_register.os
+ .ARM.extab.text.IwDebugTraceLineVPrintf
+                0x00002bd4        0xc C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.IwDebugTraceLinePrintf
+                0x00002be0        0xc C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.extab.text.s3eEdkThreadRunOnOS
+                0x00002bec        0xc C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x00002bf8                PROVIDE (__exidx_start, .)
+
+.ARM.exidx      0x00002bf8      0x158
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx.text._ZN7_JNIEnv9FindClassEPKc
+                0x00002bf8        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._ZN7_JNIEnv17ExceptionOccurredEv
+                0x00002c00        0x0 debug\s3eSoundPool_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN7_JNIEnv17ExceptionDescribeEv
+                0x00002c00        0x0 debug\s3eSoundPool_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN7_JNIEnv14ExceptionClearEv
+                0x00002c00        0x0 debug\s3eSoundPool_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN7_JNIEnv12NewGlobalRefEP8_jobject
+                0x00002c00        0x0 debug\s3eSoundPool_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN7_JNIEnv15DeleteGlobalRefEP8_jobject
+                0x00002c00        0x0 debug\s3eSoundPool_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN7_JNIEnv14DeleteLocalRefEP8_jobject
+                0x00002c00        0x0 debug\s3eSoundPool_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x00002c00        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._ZN7_JNIEnv11GetMethodIDEP7_jclassPKcS3_
+                0x00002c08        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._ZN7_JNIEnv13CallIntMethodEP8_jobjectP10_jmethodIDz
+                0x00002c10        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._ZN7_JNIEnv14CallVoidMethodEP8_jobjectP10_jmethodIDz
+                0x00002c18        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._ZN7_JNIEnv12NewStringUTFEPKc
+                0x00002c20        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._ZN7_JNIEnv15RegisterNativesEP7_jclassPK15JNINativeMethodi
+                0x00002c28        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._ZN7_JavaVM6GetEnvEPPvi
+                0x00002c30        0x0 debug\s3eSoundPool_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZL15s3eEdkJNIGetEnvv
+                0x00002c30        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._ZL27s3eEdkAndroidFindClass_realPKc
+                0x00002c38        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._ZL22s3eEdkAndroidFindClassPKc
+                0x00002c40        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._Z25s3eSoundPoolInit_platformv
+                0x00002c48        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._Z30s3eSoundPoolTerminate_platformv
+                0x00002c50        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._Z27s3eSoundPoolGetInt_platform20s3eSoundPoolProperty
+                0x00002c58        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._Z27s3eSoundPoolSetInt_platform20s3eSoundPoolPropertyi
+                0x00002c60        0x0 debug\s3eSoundPool_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Z33s3eSoundPoolSampleGetInt_platformi26s3eSoundPoolSampleProperty
+                0x00002c60        0x0 debug\s3eSoundPool_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Z33s3eSoundPoolSampleSetInt_platformi26s3eSoundPoolSamplePropertyi
+                0x00002c60        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._Z36s3eSoundPoolPauseAllSamples_platformv
+                0x00002c68        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._Z37s3eSoundPoolResumeAllSamples_platformv
+                0x00002c70        0x0 debug\s3eSoundPool_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Z35s3eSoundPoolStopAllSamples_platformv
+                0x00002c70        0x0 debug\s3eSoundPool_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Z31s3eSoundPoolSampleLoad_platformPKc
+                0x00002c70        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._Z33s3eSoundPoolSampleUnload_platformi
+                0x00002c78        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._Z31s3eSoundPoolSamplePlay_platformiii
+                0x00002c80        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._Z31s3eSoundPoolSampleStop_platformi
+                0x00002c88        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._Z32s3eSoundPoolSamplePause_platformi
+                0x00002c90        0x0 debug\s3eSoundPool_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Z33s3eSoundPoolSampleResume_platformi
+                0x00002c90        0x0 debug\s3eSoundPool_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Z21s3eSoundPool_SetErrorP7_JNIEnvP8_jobjecti
+                0x00002c90        0x0 debug\s3eSoundPool_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Z24s3eSoundPool_SampleEndedP7_JNIEnvP8_jobjecti
+                0x00002c90        0x8 debug\s3eSoundPool_platform.os
+ .ARM.exidx.text._Z16s3eSoundPoolInitv
+                0x00002c98        0x8 debug\s3eSoundPool.os
+ .ARM.exidx.text._Z21s3eSoundPoolTerminatev
+                0x00002ca0        0x8 debug\s3eSoundPool.os
+ .ARM.exidx.text.s3eSoundPoolGetInt
+                0x00002ca8        0x8 debug\s3eSoundPool.os
+ .ARM.exidx.text.s3eSoundPoolSetInt
+                0x00002cb0        0x0 debug\s3eSoundPool.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.s3eSoundPoolPauseAllSamples
+                0x00002cb0        0x8 debug\s3eSoundPool.os
+ .ARM.exidx.text.s3eSoundPoolResumeAllSamples
+                0x00002cb8        0x8 debug\s3eSoundPool.os
+ .ARM.exidx.text.s3eSoundPoolStopAllSamples
+                0x00002cc0        0x8 debug\s3eSoundPool.os
+ .ARM.exidx.text.s3eSoundPoolSampleLoad
+                0x00002cc8        0x8 debug\s3eSoundPool.os
+ .ARM.exidx.text.s3eSoundPoolSampleUnload
+                0x00002cd0        0x0 debug\s3eSoundPool.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.s3eSoundPoolSamplePlay
+                0x00002cd0        0x8 debug\s3eSoundPool.os
+ .ARM.exidx.text.s3eSoundPoolSampleStop
+                0x00002cd8        0x8 debug\s3eSoundPool.os
+ .ARM.exidx.text.s3eSoundPoolSamplePause
+                0x00002ce0        0x0 debug\s3eSoundPool.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.s3eSoundPoolSampleResume
+                0x00002ce0        0x0 debug\s3eSoundPool.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.s3eSoundPoolSampleGetInt
+                0x00002ce0        0x0 debug\s3eSoundPool.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.s3eSoundPoolSampleSetInt
+                0x00002ce0        0x8 debug\s3eSoundPool.os
+ .ARM.exidx.text.s3eSoundPoolGetErrorString
+                0x00002ce8        0x8 debug\s3eSoundPool_register.os
+ .ARM.exidx.text.s3eSoundPoolGetError
+                0x00002cf0        0x8 debug\s3eSoundPool_register.os
+ .ARM.exidx.text.s3eSoundPoolRegister
+                0x00002cf8        0x8 debug\s3eSoundPool_register.os
+ .ARM.exidx.text.s3eSoundPoolUnRegister
+                0x00002d00        0x8 debug\s3eSoundPool_register.os
+ .ARM.exidx.text._Z23s3eSoundPoolRegisterExtv
+                0x00002d08        0x8 debug\s3eSoundPool_register.os
+ .ARM.exidx.text.RegisterExt
+                0x00002d10        0x8 debug\s3eSoundPool_register.os
+ .ARM.exidx.text.IwDebugTraceSetTraceChannel
+                0x00002d18        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text._GLOBAL__I_g_DebugGlobals
+                0x00002d20        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugTraceLineVPrintf
+                0x00002d28        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugTraceLinePrintf
+                0x00002d30        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.IwDebugTraceIsChannelOn
+                0x00002d38        0x8 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.exidx.text.s3eEdkThreadRunOnOS
+                0x00002d40       0x10 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                                  0x8 (size before relaxing)
+                0x00002d50                PROVIDE (__exidx_end, .)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x00002d50                . = (ALIGN (0x8000) - ((0x8000 - .) & 0x7fff))
+                0x0000b000                . = (0x8000 DATA_SEGMENT_ALIGN 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000b000        0x4
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x0000b000        0x4 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+
+.fini_array
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000b004       0xc0
+ *(.dynamic)
+ .dynamic       0x0000b004       0xc0 debug\s3eSoundPool_platform.os
+                0x0000b004                _DYNAMIC
+                0x0000b0c4                . = (. DATA_SEGMENT_RELRO_END 0x0)
+
+.got            0x0000b0c4       0x58
+ *(.got.plt)
+ .got.plt       0x0000b0c4       0x58 debug\s3eSoundPool_platform.os
+                0x0000b0c4                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ *(.got)
+ .got           0x00000000        0x0 debug\s3eSoundPool_platform.os
+ *(.igot)
+
+.data           0x0000b11c        0x0
+                0x0000b11c                __data_start = .
+ *(.data .data.* .gnu.linkonce.d.*)
+
+.data1
+ *(.data1)
+                0x0000b11c                _edata = .
+                0x0000b11c                PROVIDE (edata, .)
+                0x0000b11c                __bss_start = .
+                0x0000b11c                __bss_start__ = .
+
+.bss            0x0000b11c     0x1a68
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 debug\s3eSoundPool_platform.os
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000b11c       0x40 debug\s3eSoundPool_platform.os
+ .bss           0x0000b15c     0x1a28 C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+                0x0000b15c                g_DebugGlobals
+ *(COMMON)
+                0x0000cb84                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x0000cb84                _bss_end__ = .
+                0x0000cb84                __bss_end__ = .
+                0x0000cb84                . = ALIGN (0x4)
+                0x0000cb84                . = ALIGN (0x4)
+                0x0000cb84                __end__ = .
+                0x0000cb84                _end = .
+                0x0000cb84                PROVIDE (end, .)
+                0x0000cb84                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.ARM.attributes
+                0x00000000       0x2c
+ .ARM.attributes
+                0x00000000       0x2c debug\s3eSoundPool_platform.os
+ .ARM.attributes
+                0x0000002c       0x2c debug\s3eSoundPool.os
+ .ARM.attributes
+                0x00000058       0x2c debug\s3eSoundPool_register.os
+ .ARM.attributes
+                0x00000084       0x2c C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .ARM.attributes
+                0x000000b0       0x2c C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+
+.comment        0x00000000       0xd7
+ *(.comment)
+ .comment       0x00000000       0x2b debug\s3eSoundPool_platform.os
+ .comment       0x0000002b       0x2b debug\s3eSoundPool.os
+ .comment       0x00000056       0x2b debug\s3eSoundPool_register.os
+ .comment       0x00000081       0x2b C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(IwDebug.o)
+ .comment       0x000000ac       0x2b C:\dev\sdk\teams\marmite\5.2\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x200
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000      0x128 debug\s3eSoundPool_platform.os
+ .debug_aranges
+                0x00000128       0x90 debug\s3eSoundPool.os
+ .debug_aranges
+                0x000001b8       0x48 debug\s3eSoundPool_register.os
+
+.debug_pubnames
+                0x00000000      0x63e
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x3e4 debug\s3eSoundPool_platform.os
+ .debug_pubnames
+                0x000003e4      0x1b0 debug\s3eSoundPool.os
+ .debug_pubnames
+                0x00000594       0xaa debug\s3eSoundPool_register.os
+
+.debug_info     0x00000000     0x673a
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x61ac debug\s3eSoundPool_platform.os
+ .debug_info    0x000061ac      0x356 debug\s3eSoundPool.os
+ .debug_info    0x00006502      0x238 debug\s3eSoundPool_register.os
+
+.debug_abbrev   0x00000000      0x4e0
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x2bf debug\s3eSoundPool_platform.os
+ .debug_abbrev  0x000002bf       0xdf debug\s3eSoundPool.os
+ .debug_abbrev  0x0000039e      0x142 debug\s3eSoundPool_register.os
+
+.debug_line     0x00000000      0x7ed
+ *(.debug_line)
+ .debug_line    0x00000000      0x4d2 debug\s3eSoundPool_platform.os
+ .debug_line    0x000004d2      0x1cd debug\s3eSoundPool.os
+ .debug_line    0x0000069f      0x14e debug\s3eSoundPool_register.os
+
+.debug_frame    0x00000000      0x600
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x3bc debug\s3eSoundPool_platform.os
+ .debug_frame   0x000003bc      0x1a0 debug\s3eSoundPool.os
+ .debug_frame   0x0000055c       0xa4 debug\s3eSoundPool_register.os
+
+.debug_str      0x00000000     0x52a3
+ *(.debug_str)
+ .debug_str     0x00000000     0x50a5 debug\s3eSoundPool_platform.os
+                               0x524e (size before relaxing)
+ .debug_str     0x000050a5       0xec debug\s3eSoundPool.os
+                                0x3d1 (size before relaxing)
+ .debug_str     0x00005191      0x112 debug\s3eSoundPool_register.os
+                                0x306 (size before relaxing)
+
+.debug_loc      0x00000000      0x8e3
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x5da debug\s3eSoundPool_platform.os
+ .debug_loc     0x000005da      0x249 debug\s3eSoundPool.os
+ .debug_loc     0x00000823       0xc0 debug\s3eSoundPool_register.os
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x1e8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x120 debug\s3eSoundPool_platform.os
+ .debug_ranges  0x00000120       0x88 debug\s3eSoundPool.os
+ .debug_ranges  0x000001a8       0x40 debug\s3eSoundPool_register.os
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+OUTPUT(C:\users\ykwok\desktop\s3esoundboard\s3esoundpool\lib\android\libs3eSoundPool_d.so elf32-littlearm)

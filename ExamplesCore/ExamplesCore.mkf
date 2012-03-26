@@ -1,0 +1,29 @@
+option strict
+
+includepath
+{
+	.
+}
+
+files
+{
+	Docs/examplescore.defines.txt
+	ExamplesMain.h
+}
+
+if {{ not defined IW_MKF_IW2D_LITE }}
+{
+	files
+	{
+		ExamplesMain.cpp
+	}
+
+	subproject iwgx
+}
+else
+{
+	files
+	{
+		ExamplesMain_Iw2D.cpp
+	}
+}

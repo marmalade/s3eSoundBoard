@@ -1,0 +1,17 @@
+#!/usr/bin/env mkb
+files
+{
+    s3eSoundboard.cpp
+}
+
+subprojects
+{
+    ExamplesCore
+    s3eSoundPool
+}
+
+assets
+{
+    (data)
+    "."
+}
